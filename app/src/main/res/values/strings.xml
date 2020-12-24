@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="Role_black">黑方</string>
+    <string name="Role_white">白方</string>
+</resources>
